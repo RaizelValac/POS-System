@@ -1,4 +1,4 @@
-Here is a professional **README.md** file for your project. This documents not just *what* the app does, but the architectural decisions we made (like the Transaction safety), which is great for your portfolio.
+T_T
 
 ---
 
